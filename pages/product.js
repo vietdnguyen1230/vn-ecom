@@ -1,5 +1,4 @@
 import React from "react";
-import Accordion from "../components/Accordion";
 import Footer from "../components/Footer";
 import Nav from "../components/Nav";
 import Newsletter from "../components/Newsletter";
@@ -16,7 +15,6 @@ const Product = ({ products }) => {
       <ProductInfo products={products} />
       <ProductDetails />
       <Video />
-      <Accordion />
       <Newsletter />
       <Testimonials />
       <Footer />
