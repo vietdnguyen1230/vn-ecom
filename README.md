@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## App Intro
+Full Stack Ecommerce Application with Stripe and Sanity
+
+- Modern design animations
+- Ability to add and edit products on the go using a CMS
+- State Management of entire application using React Context API
+- File-based routing, data fetching that allows server-side rendering and static generation
+- Integrate Stripe to manage payments, products, shipping rates, and checkout process
+- Manage content using Sanity
+- Easily adjusts homepage/product pages/items through Sanity
+
+
 ## Getting Started
 
 First, run the development server:
